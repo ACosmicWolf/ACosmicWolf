@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+#### I am Arsh Mehta
+##### I like to code.
+##### I am interested in ricing, linux, opensource software. 
+##### I am currently learning Next.js and react.
+
+
 [![ACosmicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=acosmicwolf&show_icons=true&theme=nord)](https://github.com/acosmicwolf)
 
 <!--
