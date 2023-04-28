@@ -1,25 +1,12 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 #### I am Arsh 
-##### I like to code.
-##### I am interested in ricing, linux, opensource software. 
+##### I am interested in programming, linux, opensource software. 
 ##### I am currently learning Next.js and react.
 
+<p align="center">
+<a href="https://github.com/ACosmicWolf"><img src="https://github-readme-stats.vercel.app/api?username=ACosmicWolf&show_icons=true&theme=dracula"  align="center"   /></a>
+</p>
 
-[![ACosmicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACosmicWolf&show_icons=true&theme=nord)](https://github.com/ACosmicWolf)
-
-<!--
-**ACosmicWolf/ACosmicWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
