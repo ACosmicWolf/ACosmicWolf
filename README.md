@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I am Arsh Mehta
+#### I am Arsh 
 ##### I like to code.
 ##### I am interested in ricing, linux, opensource software. 
 ##### I am currently learning Next.js and react.
